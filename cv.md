@@ -22,6 +22,7 @@ ___
 3. HTML
 4. CSS
 5. Java Script
+6. C# basics
 
 ---
 
