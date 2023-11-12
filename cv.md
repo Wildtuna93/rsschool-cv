@@ -31,3 +31,5 @@ ___
 * Russian - Native
 * English - B2
 * Polish - B1
+---
+Thanks! 
